@@ -1,0 +1,6 @@
+c:\users\jeff\documents\visual studio 2013\Projects\CommandPrompt0\CommandPrompt0\bin\Debug\CommandPrompt0.exe.config
+c:\users\jeff\documents\visual studio 2013\Projects\CommandPrompt0\CommandPrompt0\bin\Debug\CommandPrompt0.exe
+c:\users\jeff\documents\visual studio 2013\Projects\CommandPrompt0\CommandPrompt0\bin\Debug\CommandPrompt0.pdb
+c:\users\jeff\documents\visual studio 2013\Projects\CommandPrompt0\CommandPrompt0\obj\Debug\CommandPrompt0.csprojResolveAssemblyReference.cache
+c:\users\jeff\documents\visual studio 2013\Projects\CommandPrompt0\CommandPrompt0\obj\Debug\CommandPrompt0.exe
+c:\users\jeff\documents\visual studio 2013\Projects\CommandPrompt0\CommandPrompt0\obj\Debug\CommandPrompt0.pdb
